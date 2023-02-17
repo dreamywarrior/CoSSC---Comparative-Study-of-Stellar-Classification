@@ -1,4 +1,4 @@
-# CoSSC---Comparative-Study-of-Stellar-Classification
+# CoSSC - Comparative-Study-of-Stellar-Classification
 
 * Realizing the need of the hour about bringing in an efficient method of cataloging, our team has produced an updated version of classifying stars, galaxies and quasars using precise accumulated inputs. With an aim of aiding humanitarian advancement, the project’s foresight is to implement the program as a staple in research space stations. 
 * The predetermined result assists in the process of selecting the appropriate algorithm, thus reducing the time consumption of a complex process. 
