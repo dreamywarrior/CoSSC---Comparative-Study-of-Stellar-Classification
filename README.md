@@ -1,5 +1,7 @@
 # Stellar Classification with Enhanced Machine Learning Algorithms 
 
+**Research Paper Link:** _https://link.springer.com/chapter/10.1007/978-981-19-9225-4_45_
+
 Discovering the Cosmos through Advanced Classification
 
 Revolutionizing star, galaxy, and quasar classification with cutting-edge methodologies, our project introduces an upgraded approach to cataloging celestial bodies. By harnessing meticulously accumulated data, we propel research space stations towards unparalleled humanitarian advancements.
@@ -20,12 +22,6 @@ Revolutionizing star, galaxy, and quasar classification with cutting-edge method
 
 ## Repository Contents
 
-* **Datasets:** Access the revered Sloan Digital Sky Survey DR-16 & DR-17 datasets that underpin our classification breakthroughs.
+* **Datasets:** Access the revered Sloan Digital Sky Survey DR-16 & DR-17 datasets that underpin our classification breakthroughs. Link: _https://www.sdss.org/_
 
-* **Codebase:** Delve into the heart of our methodology with a comprehensive collection of code scripts, meticulously crafted to orchestrate seamless classification.
-
-* **Comparative Analysis:** Discover the quantitative essence of our project through a detailed breakdown of accuracy scores and algorithmic comparisons.
-
-* **Visual Insights:** Immerse yourself in the cosmos' evolution with visually captivating graphs, charts, and infographics that distill complex trends into digestible visuals.
-
-* **Results and Conclusions:** Uncover the culmination of our efforts – a comprehensive report highlighting the winning algorithm, backed by compelling evidence and insightful conclusions.
+* **Jupyter Notebooks:** Contains code implementation of this research paper seperate for each dataset used in .ipynb format
